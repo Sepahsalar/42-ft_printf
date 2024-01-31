@@ -1,5 +1,5 @@
 # 42-ft_printf
-The `printf()` function stands out as one of the most versatile and widely used functions in the C language. From aiding in testing to facilitating tabulation, printf serves as a powerful and indispensable tool for developers. This project seeks to replicate the functionality of the original MacOS's printf, encompassing its basic error handling, various flags, minimum field width specification, and the majority of its basic conversions.
+The `printf()` function stands out as one of the most versatile and widely used functions in the `C` programming. From aiding in testing to facilitating tabulation, printf serves as a powerful and indispensable tool for developers. This project seeks to replicate the functionality of the original MacOS's printf, encompassing its basic error handling, various flags, minimum field width specification, and the majority of its basic conversions.
 
 </br>
 
